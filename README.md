@@ -49,8 +49,8 @@ I bridge the gap between **complex data infrastructure**, **advanced ML models**
 | :--- | :--- | :--- |
 | **Epoch Focus** | `JavaScript` `Firefox Extension` | A minimalist new tab extension designed to improve focus and productivity. <br> [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sumitnautiyal/epoch-focus) |
 | **Epoch Light** | `CSS` `Theme` | A clean, distraction-free light theme for Firefox. <br> [![Mozilla](https://img.shields.io/badge/Firefox-Addon-FF7139)](https://addons.mozilla.org/en-US/firefox/addon/epoch-light/) [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sumitnautiyal/epoch-theme) |
-| **Multimodal Misinformation Detection** | `TensorFlow` `NLP` `CV` | A pipeline using NLP and computer vision to detect misinformation across media formats. <br> [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](YOUR_REPO_LINK_HERE) |
-| **Hashassin** | `Rust` `Cryptography` | A high-performance rainbow table-based password cracking tool demonstrating system-level programming. <br> [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](YOUR_REPO_LINK_HERE) |
+| **Multimodal Misinformation Detection** | `TensorFlow` `NLP` `CV` | A pipeline using NLP and computer vision to detect misinformation across media formats. <br> [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sumitnautiyal/misinformation-detection) |
+| **Hashassin** | `Rust` `Cryptography` | A high-performance rainbow table-based password cracking tool demonstrating system-level programming. <br> [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/2025-Spring-CS-551/project-3-hello-rust) |
 
 ---
 
@@ -58,10 +58,6 @@ I bridge the gap between **complex data infrastructure**, **advanced ML models**
 
 <div align="center">
   <img src="github-metrics.svg" alt="Sumit's Metrics" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitnautiyal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

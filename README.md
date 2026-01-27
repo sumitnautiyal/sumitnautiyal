@@ -49,7 +49,7 @@ I bridge the gap between **complex data infrastructure**, **advanced ML models**
 | :--- | :--- | :--- |
 | **Hashassin** | `Rust` `Tokio` `Distributed Systems` | A distributed password recovery platform featuring a custom TLV binary protocol and thread-safe state management. <br> [![Repo](https://img.shields.io/badge/GitHub-View_Design-238636?style=flat&logo=github)](https://github.com/sumitnautiyal/hashassin_rust_architecture) |
 | **Multimodal Misinformation Detection** | `TensorFlow` `NLP` `CV` | A pipeline using NLP and computer vision to detect misinformation across media formats. <br> [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sumitnautiyal/misinformation-detection) |
-| **Epoch Focus** | `JavaScript` `Firefox Extension` | A minimalist new tab extension designed to improve focus and productivity. <br> [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sumitnautiyal/epoch-focus) |
+| **Epoch Focus** | `JavaScript` `Firefox Extension` | A minimalist new tab extension designed to improve focus and productivity. <br> [![Mozilla](https://img.shields.io/badge/Firefox-Addon-FF7139)](https://addons.mozilla.org/en-US/firefox/addon/epoch-focus/) [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sumitnautiyal/epoch-focus) |
 | **Epoch Light** | `CSS` `Theme` | A clean, distraction-free light theme for Firefox. <br> [![Mozilla](https://img.shields.io/badge/Firefox-Addon-FF7139)](https://addons.mozilla.org/en-US/firefox/addon/epoch-light/) [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/sumitnautiyal/epoch-theme) |
 
 ---
@@ -83,9 +83,9 @@ I bridge the gap between **complex data infrastructure**, **advanced ML models**
 
 ---
 
-### 🕹️ Side Quest: The Completionist Journey
+### 🕹️ Side Quest: A Completionist Journey
 
-I am a passionate tech enthusiast and a gaming "completionist." I believe the best way to understand complex systems and design patterns is to experience every edge case.
+I am a passionate tech enthusiast and an aspiring gaming "completionist." I believe the best way to understand complex systems and design patterns is to experience every edge case.
 
 * 🏆 **Goal:** 100% completion of the majority of games I play.
 * 📈 **Data Tracking:** I maintain a detailed log of completion stats and mechanics analysis.
